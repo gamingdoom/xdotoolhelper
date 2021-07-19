@@ -1,2 +1,2 @@
 # xdotoolhelper
-(wip) script to generate xdotool scripts
+Script to generate xdotool scripts. [Xdotool](https://github.com/jordansissel/xdotool)
