@@ -2,6 +2,7 @@
 Script to generate xdotool scripts. [Xdotool](https://github.com/jordansissel/xdotool)
 
 # Install instructions
+## Manual
 Run these commands in a terminal
 ```
 $ git clone https://github.com/gamingdoom/xdotoolhelper.git
@@ -9,6 +10,11 @@ $ cd xdotoolhelper
 $ ./install.sh
 ```
 Restart terminal
+## Arch Linux
+```
+$ sudo pacman -Sy xdotoolhelper-git
+```
+
 # Usage
 Simply run
 ```
