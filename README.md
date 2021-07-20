@@ -12,7 +12,7 @@ $ ./install.sh
 Restart terminal
 ## Arch Linux
 ```
-$ sudo pacman -Sy xdotoolhelper-git
+$ yay -S xdotoolhelper-git
 ```
 
 # Usage
