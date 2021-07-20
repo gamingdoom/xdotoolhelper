@@ -11,6 +11,7 @@ $ ./install.sh
 ```
 Restart terminal
 ## Arch Linux
+[AUR package](https://aur.archlinux.org/packages/xdotoolhelper-git/)
 ```
 $ yay -S xdotoolhelper-git
 ```
