@@ -7,7 +7,7 @@ Run these commands in a terminal
 ```
 $ git clone https://github.com/gamingdoom/xdotoolhelper.git
 $ cd xdotoolhelper
-$ ./install.sh
+$ ./install.sh '/usr'
 ```
 Restart terminal
 ## Arch Linux
